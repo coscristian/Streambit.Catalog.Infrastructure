@@ -1,6 +1,6 @@
 # Streambit.Catalog.Infrastructure
 
-This project represents the **Infrastructure layer** of the Streambit Catalog solution, following Clean Architecture principles.
+This project represents the **Infrastructure layer** of the Streambit Catalog microservice.
 
 ## Overview
 
